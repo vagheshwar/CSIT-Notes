@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-27T21:39:43 IST" name="Default suite" finished-at="2024-04-27T21:40:02 IST" duration-ms="18878">
+    <groups>
+    </groups>
+    <test started-at="2024-04-27T21:39:43 IST" name="Default test" finished-at="2024-04-27T21:40:02 IST" duration-ms="18878">
+      <class name="Realtime_projects.Registration_page_testNG">
+        <test-method is-config="true" signature="verifyRegistrationPageLoadTime()[pri:0, instance:Realtime_projects.Registration_page_testNG@290222c1]" started-at="2024-04-27T21:39:43 IST" name="verifyRegistrationPageLoadTime" finished-at="2024-04-27T21:39:53 IST" duration-ms="9926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationPageLoadTime -->
+        <test-method signature="registerUserAndVerifyConfirmation()[pri:0, instance:Realtime_projects.Registration_page_testNG@290222c1]" started-at="2024-04-27T21:39:53 IST" name="registerUserAndVerifyConfirmation" finished-at="2024-04-27T21:40:01 IST" duration-ms="8180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUserAndVerifyConfirmation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Realtime_projects.Registration_page_testNG@290222c1]" started-at="2024-04-27T21:40:01 IST" name="teardown" finished-at="2024-04-27T21:40:02 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Realtime_projects.Registration_page_testNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
